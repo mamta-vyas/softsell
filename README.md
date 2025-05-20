@@ -113,8 +113,6 @@ Tailwind CSS
 
 Netlify
 
-📎 License
-This project is licensed under the MIT License – feel free to use it for personal or commercial purposes.
 
 📬 Contact
 Built with ❤️ by Mamta Vyas
